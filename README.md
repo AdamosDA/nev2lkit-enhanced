@@ -26,5 +26,5 @@ To ease the pain, precompiled binaries are available as well:
 - Linux Ubuntu (x86) version 8.10 (Qt & Qwt libraries are also included)
 
 To cite this work, use:
-- Adamos D.A., Kosmidis E.K and Theophilidis G., ”[Performance evaluation of PCA-based spike sorting algorithms](http://dx.doi.org/10.1016/j.cmpb.2008.04.011)“, Computer methods and programs in biomedicine (September 2008), vol. 91 (3) pp. 232-44.
+- **Adamos D.A.**, Kosmidis E.K and Theophilidis G., ”[Performance evaluation of PCA-based spike sorting algorithms](http://dx.doi.org/10.1016/j.cmpb.2008.04.011)“, Computer methods and programs in biomedicine (September 2008), vol. 91 (3) pp. 232-44.
 
