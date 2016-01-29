@@ -1,5 +1,5 @@
 # nev2lkit-enhanced
-**Nev2lkit-enhanced is a preprocessor for extracellularly recorded neural data that can sort successfully larger amount of spikes and adapt to low SNRs**
+**Nev2lkit-enhanced is a preprocessor for extracellularly recorded neural data that can sort large amount of spikes and adapt to low SNRs**
 
 [Nev2lkit](http://nev2lkit.sourceforge.net) is a preprocessor for the analysis of extracellular neuronal recordings developed by Daniel Micol.
 
