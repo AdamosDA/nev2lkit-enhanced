@@ -1,0 +1,4 @@
+To be fixed:
+When saving in a nev binary file, only the time scale is saved (the integer
+part of the time-window). This results in a 'jittered' view of the file when re-openning it.
+It can be overcomed by manually re-tuning the time window to the proper value.
